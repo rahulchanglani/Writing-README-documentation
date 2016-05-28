@@ -2,14 +2,21 @@
 
 \*aasas\* no formating
 
-Normal List
+Unordered List
 - aasas
-- asasasassds
+- asasasa
+- ssds
+
+Ordered list
+1. a
+2. b
+3. c
+4. d
 
 TODO LIST
-1. [x] s
-2. [ ] ss
-3. [ ] bnmjh
+[x] s
+[ ] ss
+[ ] bnmjh
 
 Visit https://github.com
 
