@@ -2,14 +2,14 @@
 
 \*aasas\* no formating
 
+Normal List
+- aasas
+- asasasassds
+
 TODO LIST
 1. [x] s
 2. [ ] ss
 3. [ ] bnmjh
-
-Normal List
-- aasas
-- asasasassds
 
 Visit https://github.com
 
